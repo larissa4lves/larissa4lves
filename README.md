@@ -1,4 +1,4 @@
-### Participante do bootcamp da Generation Brasil, em transição para Dev Full Stack Jr
+### Participante do bootcamp da Generation Brasil, em transição para Dev Full Stack Jr👩🏽‍💻
 ![Desenvolvedora Java Jr Full Stack](https://user-images.githubusercontent.com/79761270/113704778-fb561580-96b2-11eb-82d3-acbf1e44e656.gif)
 
 <!--
