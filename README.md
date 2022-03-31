@@ -1,6 +1,10 @@
 <div>
-
-### GitHub Stats and Most Used Languages:
+Olá, eu sou a Larissa mais conhecida como P4nda :panda_face:
+<br />
+Bem vindes ao meu GitHub :relaxed:
+<br />
+<br />
+GitHub Stats and Most Used Languages:
  
   <div>
   <a href="https://github.com/larissa4lves">
